@@ -1,0 +1,8 @@
+Idei : 
+1) folosirea std::vector, std::list
+2) schimba numele la clasele ReceiveMessage si SendMessage
+3) fiecare client va sti cine este
+4) eliminam clientul ce se deconecteaza
+5) pentru fiecare client sa ii arate cine a trimis mesajul
+6) criptare prin XOR
+7) sa nu fie conexiune localhost
